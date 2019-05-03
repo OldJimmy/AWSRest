@@ -12,6 +12,6 @@ public class AwsrestApplicationTests {
 	@Test
 	public void contextLoads() {
 		
-	}
+	} 
 
 }
